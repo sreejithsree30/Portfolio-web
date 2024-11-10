@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height:100vh;
+    background:#0a0724;
+    /* background: linear-gradient(to top, #1d2b64, #f8cdda); */
+    color: white;
+    font-family: 'outfit';
+}
